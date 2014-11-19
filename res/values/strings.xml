@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurantes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btsalvar">Cadastrar Novo</string>
+    <string name="title_activity_restaurante">Cadastro de Restaurante</string>
+	<string name="txtcat">Categoria</string>
+	<string name="txtnome">Nome</string>
+	<string name="txttel">Telefone</string>
+	<string name="txtend">Endereço</string>
+	<string name="txtcid">Cidade</string>
+	<string name="txtuf">Uf</string>
+</resources>
